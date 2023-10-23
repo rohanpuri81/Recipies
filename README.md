@@ -12,7 +12,7 @@ To run the app, simply run
 
 ## Instructions
 
-<center><img src="https://ibb.co/YBZYs0v" /></center>
+<center><img src="./1.jpg" /></center>
 Wait for few seconds to download
 
 ## STEP 2
