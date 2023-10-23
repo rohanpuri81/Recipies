@@ -15,7 +15,8 @@ To run the app, simply run
 <center><img src="./11.jpg" /></center>
 Wait for few seconds to download
 
-## STEP 2
+## Open App
+<center><img src="./join1.jpg" /></center>
 
 ## Features
 
