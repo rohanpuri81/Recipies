@@ -35,6 +35,8 @@ Wait for few seconds to download
 <center><img src="./join1.jpg" /></center>
 
 ## Signup and login
-
 <center><img src="./join2.jpg" /></center>
+
+## Without login and With login Home Page
+<center><img src="./join3.jpg" /></center>
 
