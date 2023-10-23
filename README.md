@@ -1,4 +1,10 @@
 # Recipes App By Rohan Puri
+
+## Download apk
+Had some expo deploy issues so kindly download apk file && will try to deploy on expo in future
+<a href="https://drive.google.com/file/d/1YMwHOzxm9TxPKrNSNoEfPtuSqiVQPygk/view?usp=drivesdk"> Download Now </a>
+
+
 ## Features
 
 - Recipes List
@@ -22,9 +28,6 @@ To run the app, simply run
 
 `npm install && expo start`
 
-## Download apk
-
-<a href="https://drive.google.com/file/d/1YMwHOzxm9TxPKrNSNoEfPtuSqiVQPygk/view?usp=drivesdk"> Download Now </a>
 
 ## Instructions
 
