@@ -40,3 +40,6 @@ Wait for few seconds to download
 ## Without login and With login Home Page
 <center><img src="./join3.jpg" /></center>
 
+## Product Details Page and With Saved Products Page
+<center><img src="./join4.jpg" /></center>
+
