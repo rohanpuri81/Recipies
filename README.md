@@ -24,7 +24,7 @@ To run the app, simply run
 
 ## Download apk
 
-<a href="https://drive.google.com/file/d/1YMwHOzxm9TxPKrNSNoEfPtuSqiVQPygk/view?usp=drivesdk"> </a>
+<a href="https://drive.google.com/file/d/1YMwHOzxm9TxPKrNSNoEfPtuSqiVQPygk/view?usp=drivesdk"> Download Now </a>
 
 ## Instructions
 
