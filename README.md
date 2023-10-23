@@ -1,4 +1,20 @@
-# Recipes App in React Native
+# Recipes App By Rohan Puri
+## Features
+
+- Recipes List
+- Categories
+- Ingredients
+- Recipes Details Screen
+- Detailed Description
+- Search
+- Ingredients List
+- Recipes by Ingredient
+- Search
+- Used Stack Menu
+- Navigation Bar
+- Beautiful UI Design Kit
+- Compatible with Expo
+- Highly modularized codebase
 
 ## Getting Started
 
@@ -18,19 +34,7 @@ Wait for few seconds to download
 ## Open App
 <center><img src="./join1.jpg" /></center>
 
-## Features
+## Signup and login
 
-- Recipes List
-- Categories
-- Ingredients
-- Recipes Details Screen
-- Detailed Description
-- Search
-- Ingredients List
-- Recipes by Ingredient
-- Search
-- Used Stack Menu
-- Navigation Bar
-- Beautiful UI Design Kit
-- Compatible with Expo
-- Highly modularized codebase
+<center><img src="./join2.jpg" /></center>
+
